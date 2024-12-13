@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SkinSense</string>
+    <string name="title_home">Home</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_save">Save</string>
+    <string name="title_profile">Profile</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please insert a picture first\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rescan">Re-Scan</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="detail_text"><![CDATA[view more >]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_username">Enter Your Username</string>
+    <string name="enter_phone_number">Enter Your Phone Number</string>
+    <string name="confirm_password">Confirm Your Password</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="create_account">"Create Accout "</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_an_account_login">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
